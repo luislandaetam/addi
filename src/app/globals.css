@@ -16,12 +16,10 @@
   }
 }
 
-/* body {
-  color: rgb(var(--foreground-rgb));
-  background: linear-gradient(
-      to bottom,
-      transparent,
-      rgb(var(--background-end-rgb))
-    )
-    rgb(var(--background-start-rgb));
-} */
+@font-face {
+  font-family: 'EuclidCircularB';
+  src: url('../../typography/euclid-circular-b-cufonfonts/Euclid-Circular-B-Light.ttf');
+  src: url('../../typography/euclid-circular-b-cufonfonts/Euclid-Circular-B-Medium.ttf');
+  font-weight: 400;
+  font-style: normal;
+}
