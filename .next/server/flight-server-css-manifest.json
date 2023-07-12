@@ -1,0 +1,12 @@
+{
+  "cssImports": {
+    "C:\\Users\\luisl\\Desktop\\Personal Projects\\ADDI\\addi\\src\\app\\layout.js": [
+      "C:\\Users\\luisl\\Desktop\\Personal Projects\\ADDI\\addi\\src\\app\\globals.css"
+    ]
+  },
+  "cssModules": {
+    "C:\\Users\\luisl\\Desktop\\Personal Projects\\ADDI\\addi\\src\\app\\page": [
+      "C:\\Users\\luisl\\Desktop\\Personal Projects\\ADDI\\addi\\src\\app\\globals.css"
+    ]
+  }
+}
